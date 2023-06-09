@@ -8,3 +8,7 @@ date: <date>
 # NAME
 
 wd - Watchd - Watch  Deluxe
+
+# SYNOPSIS
+
+`wd [FLAGS] [OPTIONS] [--] [FILE]...`
