@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, world!");
+    println!("Initial template for WD (watch deluxe)");
 }
