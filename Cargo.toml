@@ -1,6 +1,6 @@
 [package]
 authors = ["HyperEntangledQubit <25336193+HyperEntangledQubit@users.noreply.github.com>"]
-# build = "build.rs"
+build = "build.rs"
 categories = ["command-line-utilities"]
 description = "Remade Unix watch command with colors and nerd fonts."
 keywords = ["wd"]
