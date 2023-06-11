@@ -1,5 +1,13 @@
 [package]
+authors = ["HyperEntangledQubit <25336193+HyperEntangledQubit@users.noreply.github.com>"]
+# build = "build.rs"
+categories = ["command-line-utilities"]
+description = "Remade Unix watch command with colors and nerd fonts."
+keywords = ["wd"]
+license = "MIT License"
 name = "wd"
+readme = "./README.md"
+repository = "https://github.com/HyperEntangledQubit/wd"
 version = "0.1.0"
 edition = "2021"
 
