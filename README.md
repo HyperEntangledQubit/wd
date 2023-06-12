@@ -11,3 +11,10 @@ This project was heavily inspired by the various rewrites of GNU tools in rust:
 - [bat](https://github.com/sharkdp/bat)
 
 Please check them out and give them a star!
+
+## License
+
+All the code in this repository is released under the ***MIT License***, for more information take a look at the [LICENSE] file.
+
+[LICENSE]: https://github.com/HyperEntangledQubit/nimbook/blob/master/LICENSE
+
