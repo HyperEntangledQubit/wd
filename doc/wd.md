@@ -17,3 +17,9 @@ wd - Watchd - Watch  Deluxe
 
 wd is the rust version of the Unix command *watch* with support for colors and
 nerd fonts.
+
+# OPTIONS
+
+# ARGS
+
+# ENVIRONMENT
